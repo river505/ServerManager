@@ -2,7 +2,7 @@
 
 这里记载了团队内部的服务器管理规则
 
-🚀🚀[推荐：点击观看服务器使用及管理视频](https://pan.baidu.com/s/1CtwxPqcU_G1c-WaT79qTvA?pwd=1234)🚀🚀
+🔥🔥[推荐：点击观看服务器使用及管理视频](https://pan.baidu.com/s/1CtwxPqcU_G1c-WaT79qTvA?pwd=1234)🚀🚀
 
 #### ✈️系统配置：
 
