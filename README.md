@@ -1,5 +1,6 @@
 # ServerManager
-🚀🚀这里记载了团队内部的服务器管理规则
+🚀🚀[这里记载了团队内部的服务器管理规则](https://pan.baidu.com/s/1CtwxPqcU_G1c-WaT79qTvA?pwd=1234)
+--来自百度网盘超级会员V3的分享)
 #### ✈️系统配置：
 
 |   系统    | Ubuntu 20.04                                       |
