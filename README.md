@@ -40,3 +40,7 @@
 #### ✈️其他
 * 💻[实验室设备管理](./doc/实验室设备管理.md)
 * 💰[经费使用情况](./doc/经费使用情况.md)
+
+<img src='https://img-view-c-zb.drive.quark.cn/nIn9Sdzh/1375292360/647cb76b4b80e7add03145b3b05822a7a959a531/647cb76b31678b9a479a4903b8e1da6ccef9d9bd/preview_png?auth_key=1685906058-137-10800-8e9c4650d9fd8002535322fa0de87616&sp=378&token=2-5b1a8f7bb23ce3319d14cd58ba2aea26-0-3-1024-4c3ca2ae6726469683bf14e080d818fa-d0bb52445a36efbec7d89d52d1659eee' width=600> </img></div>
+
+[tupian](https://pan.quark.cn/s/df262a17ef44)
