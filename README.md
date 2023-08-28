@@ -5,7 +5,12 @@
 
 这里记载了团队内部的服务器管理规则
 
+👇👇👇👇👇先去看下方视频👇👇👇👇👇
+
 🔥🔥[推荐：点击观看服务器使用及管理视频](https://pan.baidu.com/s/1CtwxPqcU_G1c-WaT79qTvA?pwd=1234)🚀🚀
+
+⚡⚡ 外网链接情况下，不要传输2g以上的数据，会造成服务器卡顿，网络延迟，影响他人使用。
+
 
 #### ✈️系统配置：
 
@@ -15,9 +20,9 @@
 | 电脑内存  | 128g                                               |
 |    GPU    | 2 * Nvidia RTX4090                                 |
 |  GPU内存  | 24g*2                                              |
-|   CUDA    | cuda-10.2，cuda-11.3，cuda12.0  由管理员安装        |
+|   CUDA    | cuda-10.2，cuda-11.3，cuda11.6， cuda12.0   由管理员安装  |
 |   工具    | Vim gedit tmux git                                 |
-| Anaconda  | 各用户自行安装                                      |
+| Anaconda/miniconda  | 各用户自行安装 (推荐miniconda)                                      |
 | pytorch等 | 各用户自行安装(注意：安装**对应cuda**版本的pytorch) |
 
 
